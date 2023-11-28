@@ -2,7 +2,7 @@
 
 ## Chatbot desenvolvido em python.
 
-#### Chatbot desenvolvido com python e bando de dados db.sqlite3 para demonstrar a funcionalidade de conversação básica.
+#### Chatbot desenvolvido com python e banco de dados db.sqlite3 para demonstrar a funcionalidade de conversação básica.
 
 
 
